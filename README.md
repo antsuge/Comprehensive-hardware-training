@@ -2,5 +2,5 @@
  A logisim based game: Airplane Wars
 ## Structure
 + README.md: This file.
-+ src: source code for logisim and risc-v.
-+ report.pdf: Introduction the method.
++ src: source code.
++ report.pdf: Introduction the game.
